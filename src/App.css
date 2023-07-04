@@ -1,0 +1,13 @@
+.navvb{
+    
+    position: sticky;
+    top: 2px;
+    background-color:black;
+    height: 100px;
+    padding: 15px;
+}
+ 
+.alarm{
+    width: 400px;
+}
+
